@@ -1,0 +1,31 @@
+Applicant_ID,Credit_Score,Annual_Income,Loan_Amount,Loan_Term_Months,Debt_to_Income,Employment_Type,Loan_Purpose,Risk_Category,Approval_Status
+LN-8801,780,1200000,500000,36,25%,Salaried,Home Renovation,Low Risk,✅ Approved
+LN-8802,620,450000,200000,12,55%,Self-Employed,Personal Loan,High Risk,⚠️ Rejected
+LN-8803,710,800000,1500000,60,40%,Salaried,Education,Medium Risk,⚠️ Manual Review
+LN-8804,810,2500000,8000000,180,30%,Business Owner,Home Loan,Low Risk,✅ Approved
+LN-8805,580,600000,300000,24,60%,Salaried,Medical Emergency,High Risk,⚠️ Rejected
+LN-8806,750,1500000,100000,12,15%,Salaried,Travel,Low Risk,✅ Approved
+LN-8807,690,950000,1200000,48,45%,Self-Employed,Business Expansion,Medium Risk,⚠️ Manual Review
+LN-8808,850,3000000,500000,36,10%,Salaried,Car Purchase,Prime Borrower,✅ Auto-Approved
+LN-8809,600,500000,450000,60,65%,Self-Employed,Debt Consolidation,Critical Risk,⚠️ Rejected
+LN-8810,740,1800000,2000000,120,35%,Salaried,Home Loan,Low Risk,✅ Approved
+LN-8811,640,700000,50000,6,50%,Salaried,Electronics,High Risk,⚠️ Rejected
+LN-8812,795,2200000,1200000,48,20%,Business Owner,Car Purchase,Low Risk,✅ Approved
+LN-8813,550,350000,100000,24,70%,Self-Employed,Personal Loan,Critical Risk,⚠️ Rejected
+LN-8814,725,1100000,800000,36,38%,Salaried,Wedding,Medium Risk,⚠️ Manual Review
+LN-8815,680,600000,250000,24,52%,Salaried,Medical Emergency,High Risk,⚠️ Rejected
+LN-8816,820,4000000,15000000,240,28%,Salaried,Home Loan,Prime Borrower,✅ Approved
+LN-8817,610,480000,150000,12,58%,Self-Employed,Travel,High Risk,⚠️ Rejected
+LN-8818,765,1400000,600000,36,22%,Salaried,Home Renovation,Low Risk,✅ Approved
+LN-8819,705,900000,500000,48,42%,Self-Employed,Business Expansion,Medium Risk,⚠️ Manual Review
+LN-8820,590,550000,350000,36,62%,Salaried,Debt Consolidation,Critical Risk,⚠️ Rejected
+LN-8821,835,2800000,1000000,24,12%,Business Owner,Business Expansion,Prime Borrower,✅ Auto-Approved
+LN-8822,660,750000,400000,36,48%,Salaried,Education,Medium Risk,⚠️ Manual Review
+LN-8823,730,1600000,900000,60,32%,Salaried,Car Purchase,Low Risk,✅ Approved
+LN-8824,630,520000,220000,18,54%,Self-Employed,Medical Emergency,High Risk,⚠️ Rejected
+LN-8825,775,1900000,2500000,120,25%,Salaried,Home Loan,Low Risk,✅ Approved
+LN-8826,560,400000,120000,12,68%,Self-Employed,Personal Loan,Critical Risk,⚠️ Rejected
+LN-8827,805,3200000,5000000,180,20%,Business Owner,Home Loan,Prime Borrower,✅ Approved
+LN-8828,715,1000000,650000,48,39%,Salaried,Wedding,Medium Risk,⚠️ Manual Review
+LN-8829,670,850000,300000,24,49%,Self-Employed,Personal Loan,High Risk,⚠️ Rejected
+LN-8830,790,2100000,1800000,60,18%,Salaried,Car Purchase,Low Risk,✅ Approved
